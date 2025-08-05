@@ -21,10 +21,10 @@ void navigateBottomBar(int index){
   });
 }
 
-//pages
+//sayfaların hepsi
 final List<Widget> _pages = [
 
-// shop page
+// alışveriş sayfası
 ShopPage(),
 
 // sepet sayfası
